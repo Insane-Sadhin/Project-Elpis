@@ -93,8 +93,8 @@ graph TD
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Insane-Sadhin/project-elpis.git
-   cd project-elpis
+   git clone https://github.com/Insane-Sadhin/Project-Elpis.git
+   cd Project-Elpis
    ```
 
 2. **Install dependencies:**
@@ -130,10 +130,10 @@ graph TD
 
 ### Deploy to Vercel in 1-Click
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Insane-Sadhin/project-elpis)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Insane-Sadhin/Project-Elpis)
 
 #### Method 1: Continuous Deployment via GitHub (Recommended)
-1. Push this repository to your GitHub account (`https://github.com/Insane-Sadhin/project-elpis`).
+1. Push this repository to your GitHub account (`https://github.com/Insane-Sadhin/Project-Elpis`).
 2. Log in to [Vercel](https://vercel.com).
 3. Click **"Add New"** > **"Project"** and import `project-elpis`.
 4. Framework Preset will be automatically detected as **Vite**.
